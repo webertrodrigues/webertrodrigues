@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Webert Rodrigues Caldeira da Silva!
+# 👋 Olá, eu sou Webert Rodrigues!
 
 🎓 Estudante de Engenharia Mecânica | 💻 Entusiasta de Tecnologia  
 📍 Senador Canedo/Goiânia | 🕒 UTC-03:00  
