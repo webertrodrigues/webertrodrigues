@@ -1,10 +1,6 @@
 # 👋 Olá, eu sou o Webert Rodrigues!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Webert%20Rodrigues&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
-  
-  <br />
-  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+Mecânica;Entusiasta+de+Tecnologia;Desenvolvedor+em+Formação;IFG+-+Instituto+Federal+de+Goiás)](https://git.io/typing-svg)
 </div>
 
