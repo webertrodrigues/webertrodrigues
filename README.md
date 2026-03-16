@@ -16,12 +16,12 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
   <table>
     <tr>
       <td width="50%">
-        <b>🎓 Formação:</b> Engenharia Mecânica (IFG)<br />
+        <b>🎓 Em Formação:</b> Engenharia Mecânica (IFG)<br />
         <b>📍 Local:</b> Senador Canedo / Goiânia - GO<br />
         <b>🕒 Fuso:</b> UTC-03:00
       </td>
       <td width="50%">
-        <b>💻 Foco Atual:</b> Fullstack & Sistemas<br />
+        <b>💻 Foco Atual:</b> Aprendendo Fullstack & Sistemas<br />
         <b>🌱 Aprendendo:</b> Python, C, JS, HTML/CSS<br />
         <b>⚡ Hobby:</b> Soluções Criativas
       </td>
