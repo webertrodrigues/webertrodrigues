@@ -49,7 +49,7 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
 
 ---
 
-### 🔥 Projetos em Destaque
+### Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/webertrodrigues/Python">
@@ -73,7 +73,7 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
 
 ---
 
-### 📊 GitHub Insights
+### GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=webertrodrigues&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" width="48%" />
@@ -88,7 +88,7 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
 
 ---
 
-### 🐍 Snake Contribution Game
+### Snake Contribution
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/webertrodrigues/webertrodrigues/output/github-contribution-grid-snake.svg" alt="Snake Game" />
@@ -96,7 +96,7 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
 
 ---
 
-### 📫 Conecte-se Comigo
+### Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/webert-rodrigues/" target="_blank">
