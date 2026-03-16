@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Webert Rodrigues!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Webert%20Rodrigues&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Webert%20Rodrigues&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
   
   <br />
   
