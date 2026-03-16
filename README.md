@@ -53,7 +53,7 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
 
 <div align="center">
   <a href="https://github.com/webertrodrigues/Python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webertrodrigues&repo=Python&theme=dracula&border_radius=10" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webertrodrigues&repo=python&theme=dracula&border_radius=10" />
   </a>
   <a href="https://github.com/webertrodrigues/javascript">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webertrodrigues&repo=javascript&theme=dracula&border_radius=10" />
