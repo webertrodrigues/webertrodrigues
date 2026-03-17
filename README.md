@@ -1,11 +1,9 @@
 # 👋 Olá, eu sou o Webert Rodrigues!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Webert%20Rodrigues&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
-  
-  <br />
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+Mecânica;Entusiasta+de+Tecnologia;Desenvolvedor+em+Formação;IFG+-+Instituto+Federal+de+Goiás)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+Mecânica;Entusiasta+de+Tecnologia;Desenvolvedor+em+Formação;IFG+-+Instituto+Federal+de+Goiás)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -17,13 +15,13 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <b>🎓 Formação:</b> Engenharia Mecânica (IFG)<br />
+      <td min-width="100px">
+        <b>🎓 Em Formação:</b> Engenharia Mecânica (IFG)<br />
         <b>📍 Local:</b> Senador Canedo / Goiânia - GO<br />
         <b>🕒 Fuso:</b> UTC-03:00
       </td>
-      <td width="50%">
-        <b>💻 Foco Atual:</b> Fullstack & Sistemas<br />
+      <td min-width="100px">
+        <b>💻 Foco Atual:</b> Aprendendo Fullstack & Sistemas<br />
         <b>🌱 Aprendendo:</b> Python, C, JS, HTML/CSS<br />
         <b>⚡ Hobby:</b> Soluções Criativas
       </td>
@@ -51,11 +49,11 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
 
 ---
 
-### 🔥 Projetos em Destaque
+### Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/webertrodrigues/Python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webertrodrigues&repo=Python&theme=dracula&border_radius=10" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webertrodrigues&repo=python&theme=dracula&border_radius=10" />
   </a>
   <a href="https://github.com/webertrodrigues/javascript">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=webertrodrigues&repo=javascript&theme=dracula&border_radius=10" />
@@ -75,7 +73,7 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
 
 ---
 
-### 📊 GitHub Insights
+### GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=webertrodrigues&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" width="48%" />
@@ -90,7 +88,7 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
 
 ---
 
-### 🐍 Snake Contribution Game
+### Snake Contribution
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/webertrodrigues/webertrodrigues/output/github-contribution-grid-snake.svg" alt="Snake Game" />
@@ -98,7 +96,7 @@ Sou um futuro **Engenheiro Mecânico** pelo **IFG** que encontrou na programaç�
 
 ---
 
-### 📫 Conecte-se Comigo
+### Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/webert-rodrigues/" target="_blank">
